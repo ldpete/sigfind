@@ -1,5 +1,7 @@
 # **“sigfind.m”, “sigfind_noisy.m”, “sigfind_outer.m” Documentation**
 
+[![DOI](https://zenodo.org/badge/611761261.svg)](https://zenodo.org/badge/latestdoi/611761261)
+
 ## **Issue Tracker**
 
 ### **NEEDS TO BE DONE:**
